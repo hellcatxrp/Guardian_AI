@@ -11,7 +11,7 @@ Guardian AI is an advanced voice-controlled assistant that combines speech recog
 1. **Speech Recognition Module**: Converts voice input to text using Google Speech Recognition
 2. **Intent Analysis Engine**: Intelligently routes questions to appropriate handlers
 3. **Vision System**: Captures and analyzes screen content using PIL ImageGrab
-4. **AI Processing**: Uses Google Gemini AI (1.5-flash and 2.5-flash-image-preview) for text and vision responses
+4. **AI Processing**: Uses Google Gemini AI (2.5-flash and 2.5-flash-image-preview) for text and vision responses
 5. **Text-to-Speech Engine**: Converts responses to natural speech using pyttsx3
 6. **Multi-Agent Research System**: Distributed research architecture with specialized agents
 7. **Orchestrator**: Coordinates agent execution through defined research phases
