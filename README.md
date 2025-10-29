@@ -20,7 +20,7 @@ An advanced voice-controlled AI assistant with multi-agent research capabilities
 ### Core Components
 
 - **Speech Recognition**: Google Speech Recognition with optimized settings
-- **AI Processing**: Google Gemini 1.5 Flash & 2.5 Flash Image Preview
+- **AI Processing**: Google Gemini 2.5 Flash & 2.5 Flash Image Preview
 - **Vision System**: PIL ImageGrab for screen capture and analysis
 - **Multi-Agent System**:
   - Researcher Agent (web search & data gathering)
