@@ -97,7 +97,7 @@ Key settings:
 GOOGLE_API_KEY=your_api_key_here
 SPEECH_TIMEOUT=10
 SPEECH_PAUSE_THRESHOLD=1.0
-GEMINI_MODEL=gemini-1.5-flash
+GEMINI_MODEL=gemini-2.5-flash
 INTERRUPT_HOTKEY=ctrl+i
 ```
 
